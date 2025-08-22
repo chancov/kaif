@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@vk-io/hear": "^1.1.1",
+    "axios": "^1.6.2",
+    "cheerio": "^1.1.2",
+    "cron": "^3.1.6",
+    "crypto": "^1.0.1",
+    "date-fns": "^3.3.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "lowdb": "^7.0.1",
+    "mlab-speed-test": "^1.0.0",
+    "mysql2": "^3.10.1",
+    "npm": "^10.8.1",
+    "os": "^0.1.2",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "ping": "^0.4.4",
+    "tcp-ping": "^0.1.1",
+    "vk-io": "^4.9.1",
+    "xml2js": "^0.6.2"
+  }
+}
